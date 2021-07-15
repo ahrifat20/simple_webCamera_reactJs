@@ -1,4 +1,4 @@
-### simple camera with vanilla js.
+### simple camera with react js.
 [https://simple-camera.netlify.app/](https://simple-camera.netlify.app/).<br>
 **Description :** First I access webcam next I take a picture and next i filter the picture with javascript.<br>
 **Feature :-**
